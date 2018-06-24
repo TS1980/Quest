@@ -1,0 +1,10 @@
+C:\Users\TTT\Documents\Visual Studio 2017\Projects\QuestFormApp\QuestFormApp\bin\Debug\QuestFormApp.exe.config
+C:\Users\TTT\Documents\Visual Studio 2017\Projects\QuestFormApp\QuestFormApp\bin\Debug\QuestFormApp.exe
+C:\Users\TTT\Documents\Visual Studio 2017\Projects\QuestFormApp\QuestFormApp\bin\Debug\QuestFormApp.pdb
+C:\Users\TTT\Documents\Visual Studio 2017\Projects\QuestFormApp\QuestFormApp\obj\Debug\QuestFormApp.csprojResolveAssemblyReference.cache
+C:\Users\TTT\Documents\Visual Studio 2017\Projects\QuestFormApp\QuestFormApp\obj\Debug\QuestFormApp.Form1.resources
+C:\Users\TTT\Documents\Visual Studio 2017\Projects\QuestFormApp\QuestFormApp\obj\Debug\QuestFormApp.Properties.Resources.resources
+C:\Users\TTT\Documents\Visual Studio 2017\Projects\QuestFormApp\QuestFormApp\obj\Debug\QuestFormApp.csproj.GenerateResource.Cache
+C:\Users\TTT\Documents\Visual Studio 2017\Projects\QuestFormApp\QuestFormApp\obj\Debug\QuestFormApp.csproj.CoreCompileInputs.cache
+C:\Users\TTT\Documents\Visual Studio 2017\Projects\QuestFormApp\QuestFormApp\obj\Debug\QuestFormApp.exe
+C:\Users\TTT\Documents\Visual Studio 2017\Projects\QuestFormApp\QuestFormApp\obj\Debug\QuestFormApp.pdb
